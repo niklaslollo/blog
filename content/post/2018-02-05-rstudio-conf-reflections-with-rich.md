@@ -17,15 +17,13 @@ Heading North on I-5 in Rich's baby blue Prius, we pass by brown hills and palm 
 
 In San Diego for a two-day conference on all things R, [RStudio::conf2018](https://www.rstudio.com/conference/), our minds were jammed with new packages, novel workflows, project inspiration, and a grab-bag of ideas on storytelling, empathy, and collaboration. 
 
-So, on this holiest of days, Superbowl Sunday,
+So, on this holiest of days, Superbowl Sunday, we thought we'd zig while others zagged (meaning yelled at the TV). We're going to reflect on our experience at RStudio::conf2018, for ourselves, for our peers, and for our respective data science programs at UC Berkeley and Davis.
 
-{{< img-post path="date" file="kobe.gif" alt="Touchdown" type="left" >}}
-
-we thought we'd zig while others zagged (meaning yelled at the TV). We're going to reflect on our experience at RStudio::conf2018, for ourselves, for our peers, and for our respective data science programs at UC Berkeley and Davis.
+{{< img-post path="date" file="kobe.gif" alt="Touchdown" type="center" >}}
 
 Oh, and, we also enlisted the inimitable [Krista Tippett, NPR host of *On Being*](https://onbeing.org/) to conduct the interview. 
 
-{{< img-post path="date" file="krista_rich.jpg" alt="Krista interviewing Rich" type="left" >}}
+{{< img-post path="date" file="krista_rich.jpg" alt="Krista interviewing Rich" type="center" >}}
 
 Here we go...
 
@@ -99,12 +97,12 @@ Here we go...
 
 ## Photos
 
-{{< img-post path="date" file="hadley.jpg" type="left" >}}
+{{< img-post path="date" file="hadley.jpg" type="center" >}}
 
-{{< img-post path="date" file="hex.jpg" alt="Hex sticker mania" type="left" >}}
+{{< img-post path="date" file="hex.jpg" alt="Hex sticker mania" type="center" >}}
 
-{{< img-post path="date" file="rich.jpg" alt="Rich Pauloo" type="left" >}}
+{{< img-post path="date" file="rich.jpg" alt="Rich Pauloo" type="center" >}}
 
-{{< img-post path="date" file="nik.jpg" alt="Niklas Lollo" type="left" >}}  
+{{< img-post path="date" file="nik.jpg" alt="Niklas Lollo" type="center" >}}  
 
-{{< img-post path="date" file="tacos.jpg" alt="Fish Tacos... yummm" type="left" >}}
+{{< img-post path="date" file="tacos.jpg" alt="Fish Tacos... yummm" type="center" >}}
