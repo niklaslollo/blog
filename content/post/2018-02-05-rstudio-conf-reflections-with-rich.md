@@ -1,12 +1,16 @@
 ---
 title: "Reflections on RStudio::conf2018"
 author: "Niklas Lollo & Rich Pauloo"
-date: 2018-02-05
-categories: ["data science"]
-tags: ["RStudio","R", "conference","data science"]
-featured: "r_conf.png"
-featuredalt: "Niklas and Rich"
-featuredpath: "img/rstudio_images"
+date: '2018-02-05'
+featured: r_conf.png
+featuredalt: Niklas and Rich
+featuredpath: img/rstudio_images
+tags:
+- RStudio
+- R
+- conference
+- data science
+categories: data science
 ---
 
 Heading North on I-5 in Rich's baby blue Prius, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night's beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we're about 7 hours from our respective destinations: Berkeley and Davis, CA.  
@@ -15,13 +19,13 @@ In San Diego for a two-day conference on all things R, [RStudio::conf2018](https
 
 So, on this holiest of days, Superbowl Sunday,
 
-![Touchdown](img/rstudio_images/kobe.gif)
+{{< img-post path="img/rstudio_images" file="kobe.gif" alt="Touchdown" type="left" >}}
 
 we thought we'd zig while others zagged (meaning yelled at the TV). We're going to reflect on our experience at RStudio::conf2018, for ourselves, for our peers, and for our respective data science programs at UC Berkeley and Davis.
 
 Oh, and, we also enlisted the inimitable [Krista Tippett, NPR host of *On Being*](https://onbeing.org/) to conduct the interview. 
 
-![Krista interviewing Rich](img/rstudio_images/krista_rich.jpg)
+{{< img-post path="img/rstudio_images" file="krista_rich.jpg" alt="Krista interviewing Rich" type="left" >}}
 
 Here we go...
 
@@ -94,16 +98,21 @@ Here we go...
 > Likewise, thank you Krista.
 
 ## Photos
-`r htmltools::HTML("{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about "Big Ideas"" type="left" >}}")`
-![Hadley Wickham talking about "Big Ideas"](img/rstudio_images/hadley.jpg)
 
-![Hex sticker mania](img/rstudio_images/hex.jpg)  
+{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
 
-![[Rich Pauloo](https://richpauloo.github.io)](img/rstudio_images/rich.jpg)  
+{{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
 
-![Niklas Lollo](img/rstudio_images/nik.jpg)
 
-![Fish Tacos... yummm](img/rstudio_images/tacos.jpg)
+{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hex sticker mania" type="left" >}}
+
+
+{{< img-post path="img/rstudio_images" file="rich.jpg" alt="Rich Pauloo" type="left" >}}
+
+
+{{< img-post path="img/rstudio_images" file="nik.jpg" alt="Niklas Lollo" type="left" >}}  
+
+{{< img-post path="img/rstudio_images" file="tacos.jpg" alt="Fish Tacos... yummm" type="left" >}}
 
 
 
