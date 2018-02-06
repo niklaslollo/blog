@@ -19,13 +19,13 @@ In San Diego for a two-day conference on all things R, [RStudio::conf2018](https
 
 So, on this holiest of days, Superbowl Sunday,
 
-{{< img-post path="img/rstudio_images" file="kobe.gif" alt="Touchdown" type="left" >}}
+{{< img-post path="date" file="kobe.gif" alt="Touchdown" type="left" >}}
 
 we thought we'd zig while others zagged (meaning yelled at the TV). We're going to reflect on our experience at RStudio::conf2018, for ourselves, for our peers, and for our respective data science programs at UC Berkeley and Davis.
 
 Oh, and, we also enlisted the inimitable [Krista Tippett, NPR host of *On Being*](https://onbeing.org/) to conduct the interview. 
 
-{{< img-post path="img/rstudio_images" file="krista_rich.jpg" alt="Krista interviewing Rich" type="left" >}}
+{{< img-post path="date" file="krista_rich.jpg" alt="Krista interviewing Rich" type="left" >}}
 
 Here we go...
 
@@ -101,10 +101,10 @@ Here we go...
 
 {{< img-post path="date" file="hadley.jpg" type="left" >}}
 
-{{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hex sticker mania" type="left" >}}
+{{< img-post path="date" file="hex.jpg" alt="Hex sticker mania" type="left" >}}
 
-{{< img-post path="img/rstudio_images" file="rich.jpg" alt="Rich Pauloo" type="left" >}}
+{{< img-post path="date" file="rich.jpg" alt="Rich Pauloo" type="left" >}}
 
-{{< img-post path="img/rstudio_images" file="nik.jpg" alt="Niklas Lollo" type="left" >}}  
+{{< img-post path="date" file="nik.jpg" alt="Niklas Lollo" type="left" >}}  
 
-{{< img-post path="img/rstudio_images" file="tacos.jpg" alt="Fish Tacos... yummm" type="left" >}}
+{{< img-post path="date" file="tacos.jpg" alt="Fish Tacos... yummm" type="left" >}}
