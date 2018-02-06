@@ -94,6 +94,7 @@ Here we go...
 > Likewise, thank you Krista.
 
 ## Photos
+`r htmltools::HTML("{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about "Big Ideas"" type="left" >}}")`
 ![Hadley Wickham talking about "Big Ideas"](img/rstudio_images/hadley.jpg)
 
 ![Hex sticker mania](img/rstudio_images/hex.jpg)  
