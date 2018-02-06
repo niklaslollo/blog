@@ -99,16 +99,11 @@ Here we go...
 
 ## Photos
 
-{{< img-post path="../../static/img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
+{{< img-post path="../../static/img/rstudio_images/" file="hadley.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
 
-{{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
-
-
-{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hex sticker mania" type="left" >}}
-
+{{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hex sticker mania" type="left" >}}
 
 {{< img-post path="img/rstudio_images" file="rich.jpg" alt="Rich Pauloo" type="left" >}}
-
 
 {{< img-post path="img/rstudio_images" file="nik.jpg" alt="Niklas Lollo" type="left" >}}  
 
