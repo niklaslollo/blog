@@ -15,13 +15,13 @@ In San Diego for a two-day conference on all things R, [RStudio::conf2018](https
 
 So, on this holiest of days, Superbowl Sunday,
 
-{{< img-post path="img/rstudio_images" file="kobe.gif" alt="Touchdown" type="center" >}}
+![Touchdown](img/rstudio_images/kobe.gif)
 
 we thought we'd zig while others zagged (meaning yelled at the TV). We're going to reflect on our experience at RStudio::conf2018, for ourselves, for our peers, and for our respective data science programs at UC Berkeley and Davis.
 
 Oh, and, we also enlisted the inimitable [Krista Tippett, NPR host of *On Being*](https://onbeing.org/) to conduct the interview. 
 
-{{< img-post path="img/rstudio_images" file="krista_rich.jpg" alt="Krista interviewing Rich" type="center" >}}
+![Krista interviewing Rich](img/rstudio_images/krista_rich.jpg)
 
 Here we go...
 
@@ -94,16 +94,15 @@ Here we go...
 > Likewise, thank you Krista.
 
 ## Photos
-{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about "Big Ideas"" type="center" >}}
+![Hadley Wickham talking about "Big Ideas"](img/rstudio_images/hadley.jpg)
 
-{{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hex sticker mania, Part I" type="center" >}}
+![Hex sticker mania](img/rstudio_images/hex.jpg)  
 
-{{< img-post path="img/rstudio_images" file="rich.jpg" alt="Rich Pauloo" type="center" >}}  
-[Rich Pauloo](https://richpauloo.github.io)
+![[Rich Pauloo](https://richpauloo.github.io)](img/rstudio_images/rich.jpg)  
 
-{{< img-post path="img/rstudio_images" file="nik.jpg" alt="Niklas Lollo" type="center" >}}
+![Niklas Lollo](img/rstudio_images/nik.jpg)
 
-{{< img-post path="img/rstudio_images" file="tacos.jpg" alt="Fish Tacos... yummm" type="center" >}}
+![Fish Tacos... yummm](img/rstudio_images/tacos.jpg)
 
 
 
