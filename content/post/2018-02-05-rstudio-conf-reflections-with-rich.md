@@ -99,7 +99,7 @@ Here we go...
 
 ## Photos
 
-{{< img-post path="img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
+{{< img-post path="../../static/img/rstudio_images" file="hadley.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
 
 {{< img-post path="img/rstudio_images" file="hex.jpg" alt="Hadley Wickham talking about Big Ideas" type="left" >}}
 
