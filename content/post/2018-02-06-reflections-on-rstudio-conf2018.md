@@ -11,11 +11,12 @@ tags:
 - data science
 description: ''
 featured: 'r_conf.png'
-featuredalt: 'Niklas and Rich'
+featuredalt: 'Photo credit: Sharon Machlis (https://twitter.com/sharon000/)'
 featuredpath: 'date'
 linktitle: ''
 ---
-
+<div font-size: x-small> PC: [Sharon Machlis](https://twitter.com/sharon000/) </div>  
+  
 Heading North on I-5 in Rich's baby blue Prius, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night's beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we're about 7 hours from our respective destinations: Berkeley and Davis, CA.  
 
 In San Diego for a two-day conference on all things R, [RStudio::conf2018](https://www.rstudio.com/conference/), our minds were jammed with new packages, novel workflows, project inspiration, and a grab-bag of ideas on storytelling, empathy, and collaboration. 
