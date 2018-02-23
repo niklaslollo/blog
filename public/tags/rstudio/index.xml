@@ -6,10 +6,20 @@
     <description>Recent content in Rstudio on Economics, Politics, and Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/rstudio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Some sweet new R packages</title>
+      <link>/2018/02/22/some-sweet-new-r-packages/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/22/some-sweet-new-r-packages/</guid>
+      <description>Packages infer
+infer is a tidyverse-consistent package for statistical inference. However, infer is more exciting because it makes running a t-test more like how we learned it in stats class. That is, infer requires you to specify your explanatory and response variables, state your hypothesis with hypothesize, generate the permutations or simulations, then calculate your chosen statistic. It’s another step in the right direction for consistency and clarity, which is great for getting more people coding (and doing statistics properly).</description>
+    </item>
     
     <item>
       <title>Reflections on RStudio::conf2018</title>
@@ -20,15 +30,6 @@
       <description>Photo Credit: Sharon Machlis
 Heading North on I-5 in Rich&amp;rsquo;s baby blue Prius, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night&amp;rsquo;s beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we&amp;rsquo;re about 7 hours from our respective destinations: Berkeley and Davis, CA.
 In San Diego for a two-day conference on all things R, RStudio::conf2018, our minds were jammed with new packages, novel workflows, project inspiration, and a grab-bag of ideas on storytelling, empathy, and collaboration.</description>
-    </item>
-    
-    <item>
-      <title>What I learned at rstudio::conf</title>
-      <link>/2018/02/03/what-i-learned-at-rstudioconf/</link>
-      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/02/03/what-i-learned-at-rstudioconf/</guid>
-      <description>Workflow  tidyverse multilingual rmd packages programming with dplyr always think about your user   Packages  infer sf tidygraph &amp;amp; ggraph tibbletime   Inspiration  Making a package Making a blog (this blog!) Quick and dirty   Provocations  Visual inference   Itches scratched  tensorflow   Food, Hexes, and Sunshine Such a relaxing conference. Instead of everyone challenging each other, people were so excited to discuss methods and workflows and ideas.</description>
     </item>
     
   </channel>

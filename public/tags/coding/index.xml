@@ -6,18 +6,19 @@
     <description>Recent content in Coding on Economics, Politics, and Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>What I learned at rstudio::conf</title>
-      <link>/2018/02/03/what-i-learned-at-rstudioconf/</link>
-      <pubDate>Sat, 03 Feb 2018 00:00:00 +0000</pubDate>
+      <title>Some sweet new R packages</title>
+      <link>/2018/02/22/some-sweet-new-r-packages/</link>
+      <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/02/03/what-i-learned-at-rstudioconf/</guid>
-      <description>Workflow  tidyverse multilingual rmd packages programming with dplyr always think about your user   Packages  infer sf tidygraph &amp;amp; ggraph tibbletime   Inspiration  Making a package Making a blog (this blog!) Quick and dirty   Provocations  Visual inference   Itches scratched  tensorflow   Food, Hexes, and Sunshine Such a relaxing conference. Instead of everyone challenging each other, people were so excited to discuss methods and workflows and ideas.</description>
+      <guid>/2018/02/22/some-sweet-new-r-packages/</guid>
+      <description>Packages infer
+infer is a tidyverse-consistent package for statistical inference. However, infer is more exciting because it makes running a t-test more like how we learned it in stats class. That is, infer requires you to specify your explanatory and response variables, state your hypothesis with hypothesize, generate the permutations or simulations, then calculate your chosen statistic. It’s another step in the right direction for consistency and clarity, which is great for getting more people coding (and doing statistics properly).</description>
     </item>
     
   </channel>

@@ -1,37 +1,23 @@
 ---
-title: "What I learned at rstudio::conf"
+title: "Some sweet new R packages"
 author: "Niklas Lollo"
-date: 2018-02-03
+date: 2018-02-22
 categories: ["data science"]
 tags: ["RStudio", "coding", "tidyverse"]
-draft: true
+draft: false
 ---
 
-## Workflow
-- *tidyverse*
-- *multilingual rmd*
-- *packages*
-- *programming with dplyr*
-- **always**  *think about your user*
-
 ## Packages
-- *infer*
-- *sf*
-- *tidygraph & ggraph*
-- *tibbletime*
+**infer**  
+[`infer`](https://github.com/andrewpbray/infer) is a tidyverse-consistent package for statistical inference. However, `infer` is more *exciting* because it makes running a t-test more like how we learned it in stats class. That is, `infer` requires you to `specify` your explanatory and response variables, state your hypothesis with `hypothesize`, `generate` the permutations or simulations, then `calculate` your chosen statistic. It's another step in the right direction for consistency and clarity, which is great for getting more people coding (and doing statistics properly). For more on `infer`, my friend, Rich Pauloo, takes a deeper dive [here](https://richpauloo.github.io/2018-02-03-Tidy-Chi-Squared-stats-in-infer/).
 
-## Inspiration
-- Making a package
-- Making a blog (this blog!)
-- Quick and dirty
+**sf**  
+[`sf`](https://r-spatial.github.io/sf/) is a tidyverse-consistent package for spatial data. `sf`'s main thrust is to use what are called *simple features*, [aka](http://r-spatial.org/r/2016/02/15/simple-features-for-r.html) "standard for the exchange of spatial feature data, meaning points, lines and polygons (and not e.g. vector topology, networks, or rasters)." I've only scratched the surface with `sf` thus far, but it promises seamless integration with `ggplot` (using `geom_sf`) in a soon-to-be-released version. Here's a helpful [primer](https://ryanpeek.github.io/mapping_in_R/maps_sf.html) from Ryan Peek.
 
-## Provocations
-- *Visual inference*
+**tidygraph & ggraph**  
+These packages are, say it with me, tidyverse-consistent packages for network analysis. `tidygraph` takes the place of `tidyr` while `ggraph` fills the role of `ggplot` in your workflow. I haven't used this myself, but the presentation slides are available [here](https://www.data-imaginist.com/slides/rstudioconf2018/assets/player/keynotedhtmlplayer#2) and a [blogpost](https://www.data-imaginist.com/2018/tidygraph-1-1-a-tidy-hope/).
 
-## Itches scratched
-- *tensorflow*
+**tibbletime**   
+`tibbletime` handles time-series data in a tidyverse format. The conference presentation slides can be found [here](https://github.com/business-science/presentations/blob/master/2018_02_02_rstudio-conf-2018/presentation/rstudio-conf-2018-presentation.pdf).
 
-## Food, Hexes, and Sunshine
-Such a relaxing conference. Instead of everyone challenging each other, people were so excited to discuss methods and workflows and ideas.
-
-Thanks to DS421 for funding my conference pass and Rich Pauloo for being my conference companion.
+[See here for all conference presentations](https://github.com/simecek/RStudioConf2018Slides)
