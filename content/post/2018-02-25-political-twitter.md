@@ -2,7 +2,7 @@
 title: Screw the GOP: Baby's First Step into Politics
 author: Niklas Lollo
 date: '2018-02-25'
-slug: political-twitter
+slug: screw-the-gop
 categories: [politics]
 tags: [politics, twitter, media]
 description: ''
@@ -29,10 +29,5 @@ The third problem is "he said, she said" reporting. This builds from the previou
 The fourth problem is letting the GOP outrage machine guide reporting.  
 
 The fifth problem is missing the forest for the trees. Similar to point three, if you are going for a story, and the administration blocks you, guess what, you have your story. "White House lies again." Enough said.
-
-
-
-
-
 
 
