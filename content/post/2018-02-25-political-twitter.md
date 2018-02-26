@@ -1,5 +1,5 @@
 ---
-title: Screw the GOP: Baby's First Step into Politics
+title: Screw the GOP -  Baby's First Step into Politics
 author: Niklas Lollo
 date: '2018-02-25'
 slug: screw-the-gop
