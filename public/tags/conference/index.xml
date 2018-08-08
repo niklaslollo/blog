@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference on Economics, Politics, and Resources</title>
-    <link>/tags/conference/</link>
+    <link>https://niklaslollo.netlify.com/tags/conference/</link>
     <description>Recent content in Conference on Economics, Politics, and Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niklaslollo.netlify.com/tags/conference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reflections on RStudio::conf2018</title>
-      <link>/2018/02/06/reflections-on-rstudio-conf2018/</link>
+      <link>https://niklaslollo.netlify.com/2018/02/06/reflections-on-rstudio-conf2018/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/02/06/reflections-on-rstudio-conf2018/</guid>
+      <guid>https://niklaslollo.netlify.com/2018/02/06/reflections-on-rstudio-conf2018/</guid>
       <description>Photo Credit: Sharon Machlis
 Heading North on I-5 in Rich&amp;rsquo;s baby blue Prius, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night&amp;rsquo;s beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we&amp;rsquo;re about 7 hours from our respective destinations: Berkeley and Davis, CA.
 In San Diego for a two-day conference on all things R, RStudio::conf2018, our minds were jammed with new packages, novel workflows, project inspiration, and a grab-bag of ideas on storytelling, empathy, and collaboration.</description>

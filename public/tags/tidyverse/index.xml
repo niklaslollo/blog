@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tidyverse on Economics, Politics, and Resources</title>
-    <link>/tags/tidyverse/</link>
+    <link>https://niklaslollo.netlify.com/tags/tidyverse/</link>
     <description>Recent content in Tidyverse on Economics, Politics, and Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://niklaslollo.netlify.com/tags/tidyverse/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Some sweet new R packages</title>
-      <link>/2018/02/22/some-sweet-new-r-packages/</link>
+      <link>https://niklaslollo.netlify.com/2018/02/22/some-sweet-new-r-packages/</link>
       <pubDate>Thu, 22 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/02/22/some-sweet-new-r-packages/</guid>
+      <guid>https://niklaslollo.netlify.com/2018/02/22/some-sweet-new-r-packages/</guid>
       <description>Packages infer
 infer is a tidyverse-consistent package for statistical inference. However, infer is more exciting because it makes running a t-test more like how we learned it in stats class. That is, infer requires you to specify your explanatory and response variables, state your hypothesis with hypothesize, generate the permutations or simulations, then calculate your chosen statistic. It’s another step in the right direction for consistency and clarity, which is great for getting more people coding (and doing statistics properly).</description>
     </item>
