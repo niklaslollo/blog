@@ -3,6 +3,7 @@ title: Screw the GOP -  Baby's First Step into Politics
 author: Niklas Lollo
 date: '2018-02-25'
 slug: screw-the-gop
+draft: TRUE
 categories: [politics]
 tags: [politics, twitter, media]
 description: ''

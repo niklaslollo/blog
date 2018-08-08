@@ -6,10 +6,32 @@
     <description>Recent content in Posts on Economics, Politics, and Resources</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>All the Republican Bullshit from the Last Year</title>
+      <link>/2018/03/27/both-sides/</link>
+      <pubDate>Tue, 27 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/03/27/both-sides/</guid>
+      <description>In my last rant, I wrote that the narrative &amp;ldquo;both sides do it&amp;rdquo; is itself toxic. We need to diagnose the problem correctly before we can hope to solve it.
+And the problem is the fucking Republicans.
+Without further ado, this post hopes to catalogue the ways in which the GOP and right wing politics have corroded our political system.
+ Climate change - For about 30 years, Republicans have consistently denied science, impugned the credibility of scientists, actively promoted coal and oil, prevented the COP21 agreement from being stringent, saddled future generations with worse climate, ignored the pleas of the rest of the world, and more.</description>
+    </item>
+    
+    <item>
+      <title>Screw the GOP -  Baby&#39;s First Step into Politics</title>
+      <link>/2018/02/25/screw-the-gop/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/02/25/screw-the-gop/</guid>
+      <description>To start all this off, I won&amp;rsquo;t be saying much of anything new, and it won&amp;rsquo;t be a very long piece. That said, these are things that must be said over and over, and perhaps someone new will see. That would be enough for me.
+My point is: Donald Trump is clearly guilty. Of obstruction of justice, of &amp;ldquo;collusion,&amp;rdquo; of grift, of nepotism, and of many more sad, disappointing, and enraging acts.</description>
+    </item>
     
     <item>
       <title>Some sweet new R packages</title>
@@ -30,6 +52,15 @@ infer is a tidyverse-consistent package for statistical inference. However, infe
       <description>Photo Credit: Sharon Machlis
 Heading North on I-5 in Rich&amp;rsquo;s baby blue Prius, we pass by brown hills and palm trees as San Diego fades in the rear view mirror. The smell of last night&amp;rsquo;s beach bonfire wafts from our jackets stowed in the back seat, and Google Maps notifies us we&amp;rsquo;re about 7 hours from our respective destinations: Berkeley and Davis, CA.
 In San Diego for a two-day conference on all things R, RStudio::conf2018, our minds were jammed with new packages, novel workflows, project inspiration, and a grab-bag of ideas on storytelling, empathy, and collaboration.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/01/</guid>
+      <description>Screw the GOP - Baby’s First Step into Politics       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
