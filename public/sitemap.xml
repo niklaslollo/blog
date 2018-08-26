@@ -3,86 +3,130 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://niklaslollo.netlify.com/2018/02/22/some-sweet-new-r-packages/</loc>
+    <loc>/2018/08/26/my-rules/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/08/16/an-idea/</loc>
+    <lastmod>2018-08-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/03/27/both-sides/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/25/screw-the-gop/</loc>
+    <lastmod>2018-02-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2018/02/22/some-sweet-new-r-packages/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/2018/02/06/reflections-on-rstudio-conf2018/</loc>
+    <loc>/2018/02/06/reflections-on-rstudio-conf2018/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/1/01/01/</loc>
+    <loc>/1/01/01/</loc>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/coding/</loc>
+    <loc>/tags/coding/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/conference/</loc>
+    <loc>/tags/conference/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/categories/data-science/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://niklaslollo.netlify.com/tags/data-science/</loc>
+    <loc>/tags/data-science/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/</loc>
+    <loc>/categories/data-science/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/post/</loc>
-    <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/r/</loc>
+    <loc>/tags/media/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/politics/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/politics/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2018-08-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/rstudio/</loc>
+    <loc>/tags/rstudio/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://niklaslollo.netlify.com/tags/tidyverse/</loc>
+    <loc>/tags/tidyverse/</loc>
     <lastmod>2018-02-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/twitter/</loc>
+    <lastmod>2018-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
